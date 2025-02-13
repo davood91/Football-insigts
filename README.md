@@ -1,6 +1,6 @@
-# Argentina Football Team Insights – Tkinter UI  
+# Football Insights – Tkinter UI  
 
-This project is a **Python Tkinter-based desktop application** designed to assist the **Argentina football team's coach** by providing an interactive interface for retrieving player and team statistics.  
+This project is a **Python Tkinter-based desktop application** designed to provide an interactive interface for retrieving football team and player insights.  
 
 ## Features  
 
@@ -16,8 +16,8 @@ This project is a **Python Tkinter-based desktop application** designed to assis
 
 ## User Interaction  
 
-- This application is built using **Python's Tkinter library** for the UI  
+- Built using **Python's Tkinter library** for the UI  
 - Users interact through **dropdown menus and buttons** to retrieve insights  
 - Retrieved data is displayed within the application window  
 
-🚀 This **Tkinter UI tool** simplifies football analytics for better coaching strategies!  
+🚀 This **Tkinter UI tool** simplifies football analytics for better team management!  
